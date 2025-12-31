@@ -4,7 +4,6 @@ podemos utilizar una convención para indicar que el valor de una variable no de
 como UPPER_CASE.
 """
 import math
-from re import match
 
 NOMBRE_CONSTANTE = "Soy una constante"
 PI = 3.14
